@@ -1627,8 +1627,8 @@
             "name": "Static DataSources",
             "docs": "https://raw.githubusercontent.com/feedhenry-templates/appforms-datasources-static/master/README.md",
             "type": "cloud_nodejs",
-            "repoUrl": "git://github.com/feedhenry-templates/appforms-datasources-static.git",
-            "githubUrl": "https://github.com/feedhenry-templates/appforms-datasources-static.git",
+            "repoUrl": "git://github.com/lholmquist/appforms-datasources-static.git",
+            "githubUrl": "https://github.com/lholmquist/appforms-datasources-static.git",
             "repoBranch": "refs/heads/rhmap_static_test",
             "image": "public/img/cloud_plugins/fh.png",
             "category": "DataSources"
