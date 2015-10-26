@@ -1619,17 +1619,17 @@
         "type": "other",
         "image": "public/img/cloud_plugins/fh.png",
         "category": "DataSources",
-        "docs": "https://raw.githubusercontent.com/feedhenry-templates/appforms-datasources-static/master/README.md",
+        "docs": "https://raw.githubusercontent.com/lholmquist/appforms-datasources-static/rmhap_static_test/README.md",
         "description": "A service for integrating with DataSources",
         "appTemplates": [
           {
             "id": "static_datasource_cloud",
             "name": "Static DataSources",
-            "docs": "https://raw.githubusercontent.com/feedhenry-templates/appforms-datasources-static/master/README.md",
+            "docs": "https://raw.githubusercontent.com/lholmquist/appforms-datasources-static/rmhap_static_test/README.md",
             "type": "cloud_nodejs",
             "repoUrl": "git://github.com/lholmquist/appforms-datasources-static.git",
             "githubUrl": "https://github.com/lholmquist/appforms-datasources-static.git",
-            "repoBranch": "refs/heads/rhmap_static_test",
+            "repoBranch": "refs/heads/rmhap_static_test",
             "image": "public/img/cloud_plugins/fh.png",
             "category": "DataSources"
           }
